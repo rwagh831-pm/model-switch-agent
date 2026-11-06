@@ -1,0 +1,11 @@
+# Secrets: never commit these
+.env
+*.key
+*_key.txt
+*_token.txt
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/

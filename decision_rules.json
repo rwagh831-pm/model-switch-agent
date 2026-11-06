@@ -1,0 +1,10 @@
+{
+  "_why": "Set before any test runs. Locking these stops anyone choosing the rules after seeing the results.",
+  "_version": "2: adds the speed rule after version 1 recommended a model 4.5 times slower.",
+  "max_invented_facts": 0,
+  "max_slowdown_ratio": 2.0,
+  "max_extra_wrong_answers": 0,
+  "min_cost_saving_pct": 20,
+  "max_cost_increase_pct_for_quality_gain": 50,
+  "max_error_rate_pct": 10
+}

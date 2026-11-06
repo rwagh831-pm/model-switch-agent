@@ -1,0 +1,11 @@
+{
+  "_note": "US dollars per 1 million tokens. Claude prices are from Anthropic's reference, cached 2026-10-06. Check current prices before relying on them. Models not listed here get no cost, which forces a TEST_MORE verdict.",
+  "claude:claude-haiku-5-5": {"input": 0.10, "output": 0.50},
+  "claude:claude-haiku-4-5": {"input": 1.00, "output": 5.00},
+  "claude:claude-sonnet-5-5": {"input": 2.00, "output": 10.00},
+  "claude:claude-sonnet-5": {"input": 2.00, "output": 10.00},
+  "claude:claude-opus-5-5": {"input": 4.00, "output": 20.00},
+  "stub:perfect": {"input": 0, "output": 0},
+  "stub:liar": {"input": 0, "output": 0},
+  "stub:broken": {"input": 0, "output": 0}
+}

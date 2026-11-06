@@ -1,0 +1,4 @@
+claude-agent-sdk==0.2.178
+anthropic==2.5.0
+python-dotenv==1.2.4
+pytest==9.2.0

@@ -1,0 +1,5 @@
+# Keep the locked files byte-for-byte identical on every computer.
+# Changing line endings would change their fingerprints and break the lock.
+decision_rules.json -text
+testset/** -text
+results/** -text

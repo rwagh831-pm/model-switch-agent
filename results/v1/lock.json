@@ -1,0 +1,8 @@
+{
+  "locked_at_utc": "2026-11-05T18:48:19+00:00",
+  "fingerprints": {
+    "decision_rules.json": "91b82435c2b0a2064d2b8c98e8a0dce976f7eacf8ab6b768854386eb93b62913",
+    "testset/cases.json": "bfbafd71d8c3496f7f939934c5470251b8e29e282e14bec076c1c253925996b6",
+    "testset/candidate.md": "5f9d24f73ab6d4cbbe654c4333eedc0d50c92d801f6bf1008fd4a4e44848e873"
+  }
+}
